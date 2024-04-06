@@ -354,6 +354,34 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Ionic & Angular",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Formadores IT",
+          "URL": "https://campus.formadoresit.es/public/certificates/?id=NHVRb0R6UXZzRDVuQTl2R1NneERHUT09OjpHL1MnfZtVii_HOSdA3vyh",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/37a9ef8e-f948-4c42-ac24-72c39912aaf8_logo_fit_cuadrado-25.jpg",
+            "alt": "Logo_FIT_cuadrado-250px250px.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Ionic",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Learn Vue.js course",
         "startDate": "2021-05-01",
         "institution": {
