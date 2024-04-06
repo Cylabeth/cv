@@ -354,6 +354,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Google UX Design",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "Google",
+          "description": "- Foundations of User Experience (UX) Design\n- Start the UX Design Process: Empathize, Define, and Ideate\n- Build Wireframes and Low- Fidelity Prototypes\n- Conduct UX Research and Test Early Concepts\n- Create High-Fidelity Designs and Prototypes in Figma\n- Build Dynamic User Interfaces (UI) for Websites\n- Design a User Experience for Social Good & Prepare for Jobs",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/E8NXUFAA7X5J",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/57fab390-092c-4f61-842d-cc21e18228df_2000px-google_g_logo.png",
+            "alt": "2000px-Google_G_Logo.svg_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Ionic & Angular",
         "startDate": "2023-07-01",
         "institution": {
