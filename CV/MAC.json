@@ -318,6 +318,26 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Elements of Artificial Intelligence",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "University of Helsinki",
+          "URL": "https://certificates.mooc.fi/validate/drfomcm7l4p",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/8308e8bc-1527-4bef-a0e1-46b5a172019a_395bc891-fb8c-47c3-a.jpg",
+            "alt": "395bc891-fb8c-47c3-a253-6a2b19670133.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Full Stack Web Developer Program - Bootcamp from August 2020 to October 2020",
