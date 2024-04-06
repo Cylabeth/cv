@@ -542,6 +542,10 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "Figma",
           "type": "technology"
         },
