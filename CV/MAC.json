@@ -560,6 +560,10 @@
         {
           "name": "TypeScript",
           "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
