@@ -352,14 +352,63 @@
         "finishDate": "2020-10-31"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learn Vue.js course",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Codecademy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/ad0677bc-0580-4e15-8533-a29302288abb_codecademy_logo_icon.png",
+            "alt": "codecademy_logo_icon_145396.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Administración de Sistemas Informáticos",
         "startDate": "2005-01-01",
         "institution": {
-          "name": "I.E.S. Delgado Hernández"
+          "name": "I.E.S. Delgado Hernández",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/ef006170-1e96-4da7-ba76-77e21e21f886_6hgkg44f_400x400.png",
+            "alt": "6hgKG44F_400x400.png"
+          }
         },
-        "finishDate": "2007-01-01"
+        "finishDate": "2007-01-01",
+        "linkedCompetences": [
+          {
+            "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Access",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
