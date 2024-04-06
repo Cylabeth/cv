@@ -15,10 +15,10 @@
         "alt": "24/04/06/6ab64b2b-7fbb-458b-b763-87e2a1ab53b7_linkedin-photo-26849.linkedin-photo-26849"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJUVddupaUDA0R6RzYnIXKJqY)",
         "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "region": "Andalucía",
+        "municipality": "Algeciras"
       }
     },
     "relevantLinks": [
@@ -469,6 +469,14 @@
         "linkedCompetences": [
           {
             "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
             "type": "technology"
           },
           {
