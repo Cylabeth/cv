@@ -348,6 +348,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Google UX Design",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "Google",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/E8NXUFAA7X5J",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/d2b81b04-b96a-4a7f-98e5-f1af9d0099e8_2000px-google_g_logo.png",
+            "alt": "2000px-Google_G_Logo.svg_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Ionic & Angular",
         "startDate": "2023-07-01",
         "institution": {
