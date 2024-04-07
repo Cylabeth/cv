@@ -346,6 +346,30 @@
         "finishDate": "2020-10-31"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learn VUE.JS",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Codecademy",
+          "URL": "https://www.codecademy.com/profiles/Liz_07/certificates/db927a84bf4bba96bb285ee6a85466fc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/f3133b7a-fedb-4267-b8c4-0f983ca5afeb_codecademy_logo_icon.png",
+            "alt": "codecademy_logo_icon_145396.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Senior Technician in Computer Systems Administration",
