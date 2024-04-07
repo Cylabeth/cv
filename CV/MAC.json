@@ -11,8 +11,8 @@
       "title": "Full Stack Developer - HTML & CSS3 | Javascript | Typescript | Ionic | Angular | Node | REACT",
       "description": "From my initial training in Art Direction to my transition into programming, my career has been a journey of continuous learning and adaptation. A passion for technology led me to study for a higher degree in Systems Administration and then into web and mobile development. With experience in technical support and Front-End, my career took a decisive turn towards full-stack web development after completing the Ironhack Bootcamp in 2020.\nCurrently, I work as a Front-end Developer at Housell. I apply my skills in HTML, SASS, Javascript, and PHP for website development and Angular, Typescript, and Ionic for app development. My approach is straightforward: find solutions, keep learning, and enhance teamwork.\n\nKey Achievements\n* Built and enhanced over 50 websites and mobile apps, significantly improving responsiveness and user interaction.\n* Managed web app migration from Cordova to Capacitor, improving performance and scalability.\n* Actively improved user experience across several projects.\n* Reduced the crash rate in the Housell app from a high percentage of errors to less than 1%. This achievement reflects an improvement in app stability and user satisfaction based on performance metrics in the Google Play Store.\n\nFun Facts\nI have been a plangonologist for over 20 years. If you're curious about what that means, feel free to contact me at c.elizabeth.gorosito@gmail.com\n\nSkills\n* Development: HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React, Angular, Ionic, Node.js\n* Tools: Git, Docker, Jira\n* Methodologies: Agile, Scrum",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/62c70832-ee04-4239-b273-5ef29f9c61a6_linkedin-photo-26849.linkedin-photo-26849",
-        "alt": "24/04/07/62c70832-ee04-4239-b273-5ef29f9c61a6_linkedin-photo-26849.linkedin-photo-26849"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/79c33402-dee1-473c-bd2f-62eede072ed8_linkedin-photo-26849.linkedin-photo-26849",
+        "alt": "24/04/07/79c33402-dee1-473c-bd2f-62eede072ed8_linkedin-photo-26849.linkedin-photo-26849"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -38,8 +38,8 @@
         "organization": {
           "name": "Housell",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/959e4198-9669-4f36-99b3-27ba972b8da9_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/959e4198-9669-4f36-99b3-27ba972b8da9_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/4b884d3b-1722-464b-969f-11ad9259e13a_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/4b884d3b-1722-464b-969f-11ad9259e13a_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -58,8 +58,8 @@
         "organization": {
           "name": "Enreda",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/4c2a7873-9549-4b03-bdb6-ef8c28c02244_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/4c2a7873-9549-4b03-bdb6-ef8c28c02244_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/9ecbdd3a-f9cd-4bcc-a161-61d52b1b19ab_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/9ecbdd3a-f9cd-4bcc-a161-61d52b1b19ab_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -96,8 +96,8 @@
         "organization": {
           "name": "Workana",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/791414d6-b5c8-421f-872d-ade4041bc0c2_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/791414d6-b5c8-421f-872d-ade4041bc0c2_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/28b38590-4d80-4b0a-99bd-5bd06b2bbf7a_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/28b38590-4d80-4b0a-99bd-5bd06b2bbf7a_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -168,8 +168,8 @@
         "organization": {
           "name": "AOL",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/c0eb65f5-9c63-4d80-8c9e-c4eabc6f552d_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/c0eb65f5-9c63-4d80-8c9e-c4eabc6f552d_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/15c80974-425d-43cc-8aef-5a9d4c362e91_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/15c80974-425d-43cc-8aef-5a9d4c362e91_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -312,184 +312,28 @@
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "CS50's Introduction to Computer Science, Computer Science",
-        "startDate": "2020-03-01",
-        "institution": {
-          "name": " Harvard (CS50)",
-          "description": "An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/978a5e18-1d02-4fb8-8602-241ce9e3876a_1e39e6ef7cf74b246950.jpg",
-            "alt": "1e39e6ef7cf74b246950bf5e5a881ba6.jpg"
-          }
-        },
-        "finishDate": "2020-06-01",
-        "linkedCompetences": [
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Elements of Artificial Intelligence",
-        "startDate": "2020-04-01",
-        "institution": {
-          "name": "University of Helsinki",
-          "URL": "https://certificates.mooc.fi/validate/drfomcm7l4p",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/8308e8bc-1527-4bef-a0e1-46b5a172019a_395bc891-fb8c-47c3-a.jpg",
-            "alt": "395bc891-fb8c-47c3-a253-6a2b19670133.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Full Stack Web Developer Program - Bootcamp from August 2020 to October 2020",
+        "name": "Full Stack Web Developer",
         "startDate": "2020-08-01",
         "institution": {
           "name": "Ironhack",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/033cb8fb-d638-4753-9f94-db0f71647f11_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/06/033cb8fb-d638-4753-9f94-db0f71647f11_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/2f22a1b0-d980-4904-90ef-55ec02676bc9_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/2f22a1b0-d980-4904-90ef-55ec02676bc9_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "finishDate": "2020-10-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Google UX Design",
-        "startDate": "2024-01-01",
-        "institution": {
-          "name": "Google",
-          "description": "- Foundations of User Experience (UX) Design\n- Start the UX Design Process: Empathize, Define, and Ideate\n- Build Wireframes and Low- Fidelity Prototypes\n- Conduct UX Research and Test Early Concepts\n- Create High-Fidelity Designs and Prototypes in Figma\n- Build Dynamic User Interfaces (UI) for Websites\n- Design a User Experience for Social Good & Prepare for Jobs",
-          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/E8NXUFAA7X5J",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/57fab390-092c-4f61-842d-cc21e18228df_2000px-google_g_logo.png",
-            "alt": "2000px-Google_G_Logo.svg_.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Figma",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Ionic & Angular",
-        "startDate": "2023-07-01",
-        "institution": {
-          "name": "Formadores IT",
-          "URL": "https://campus.formadoresit.es/public/certificates/?id=NHVRb0R6UXZzRDVuQTl2R1NneERHUT09OjpHL1MnfZtVii_HOSdA3vyh",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/37a9ef8e-f948-4c42-ac24-72c39912aaf8_logo_fit_cuadrado-25.jpg",
-            "alt": "Logo_FIT_cuadrado-250px250px.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Angular2+",
-            "type": "technology"
-          },
-          {
-            "name": "Ionic",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Learn Vue.js course",
-        "startDate": "2021-05-01",
-        "institution": {
-          "name": "Codecademy",
-          "URL": "https://www.codecademy.com/profiles/Liz_07/certificates/db927a84bf4bba96bb285ee6a85466fc",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/ad0677bc-0580-4e15-8533-a29302288abb_codecademy_logo_icon.png",
-            "alt": "codecademy_logo_icon_145396.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Técnico Superior en Administración de Sistemas Informáticos",
+        "name": "Senior Technician in Computer Systems Administration",
         "startDate": "2005-01-01",
         "institution": {
-          "name": "I.E.S. Delgado Hernández",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/06/ef006170-1e96-4da7-ba76-77e21e21f886_6hgkg44f_400x400.png",
-            "alt": "6hgKG44F_400x400.png"
-          }
+          "name": "I.E.S. Delgado Hernández"
         },
-        "finishDate": "2007-01-01",
-        "linkedCompetences": [
-          {
-            "name": "ASP",
-            "type": "technology"
-          },
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Access",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2007-01-01"
       }
     ],
     "softSkills": [
