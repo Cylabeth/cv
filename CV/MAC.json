@@ -338,12 +338,43 @@
         "startDate": "2020-08-01",
         "institution": {
           "name": "Ironhack",
+          "URL": "https://www.credential.net/8c09235a-c535-4ce4-ad30-e642b4a0f3ad#gs.k6itjr",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/2f22a1b0-d980-4904-90ef-55ec02676bc9_linkedin-photo-26849.linkedin-photo-26849",
             "alt": "24/04/07/2f22a1b0-d980-4904-90ef-55ec02676bc9_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
-        "finishDate": "2020-10-31"
+        "finishDate": "2020-10-31",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
