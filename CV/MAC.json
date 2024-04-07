@@ -348,6 +348,33 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Ionic & Angular",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Formadores IT",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/76878b83-914c-416b-9439-e5c372b6bf2a_logo_fit_cuadrado-25.jpg",
+            "alt": "Logo_FIT_cuadrado-250px250px.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Ionic",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Learn VUE.JS",
         "startDate": "2021-03-01",
         "institution": {
