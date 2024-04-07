@@ -11,8 +11,8 @@
       "title": "Full Stack Developer - HTML & CSS3 | Javascript | Typescript | Ionic | Angular | Node | REACT",
       "description": "From my initial training in Art Direction to my transition into programming, my career has been a journey of continuous learning and adaptation. A passion for technology led me to study for a higher degree in Systems Administration and then into web and mobile development. With experience in technical support and Front-End, my career took a decisive turn towards full-stack web development after completing the Ironhack Bootcamp in 2020.\nCurrently, I work as a Front-end Developer at Housell. I apply my skills in HTML, SASS, Javascript, and PHP for website development and Angular, Typescript, and Ionic for app development. My approach is straightforward: find solutions, keep learning, and enhance teamwork.\n\nKey Achievements\n* Built and enhanced over 50 websites and mobile apps, significantly improving responsiveness and user interaction.\n* Managed web app migration from Cordova to Capacitor, improving performance and scalability.\n* Actively improved user experience across several projects.\n* Reduced the crash rate in the Housell app from a high percentage of errors to less than 1%. This achievement reflects an improvement in app stability and user satisfaction based on performance metrics in the Google Play Store.\n\nFun Facts\nI have been a plangonologist for over 20 years. If you're curious about what that means, feel free to contact me at c.elizabeth.gorosito@gmail.com\n\nSkills\n* Development: HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React, Angular, Ionic, Node.js\n* Tools: Git, Docker, Jira\n* Methodologies: Agile, Scrum",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/cc024e86-8d9a-465b-9b1e-36967a393f7a_linkedin-photo-26849.linkedin-photo-26849",
-        "alt": "24/04/07/cc024e86-8d9a-465b-9b1e-36967a393f7a_linkedin-photo-26849.linkedin-photo-26849"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/0673a3d1-9341-41f7-bedb-a2ad3e0384f5_linkedin-photo-26849.linkedin-photo-26849",
+        "alt": "24/04/07/0673a3d1-9341-41f7-bedb-a2ad3e0384f5_linkedin-photo-26849.linkedin-photo-26849"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -29,6 +29,161 @@
       {
         "type": "github",
         "URL": "https://github.com/Cylabeth"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Housell",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/dbb2af97-f08f-441c-b626-ad2694fc5a0b_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/dbb2af97-f08f-441c-b626-ad2694fc5a0b_linkedin-photo-26849.linkedin-photo-26849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer - iOS and Android App",
+            "startDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "• PHP Maintenance and Development: Interpreting and working with PHP code on existing projects, applying improvements, and ensuring optimal performance.\n\n• Front-End Development: I have developed with technologies such as HTML5, CSS3 (with BEM methodology), JavaScript, Twig templates, and automated tasks with Gulp to create and maintain responsive user interfaces.\n\n• Webapp Development with Angular and Ionic: Development of new features (and maintenance of existing functionalities) for the Housell app using Angular 14+, Ionic 5/6, and TypeScript, managing the entire application lifecycle, from conceptualization in Figma to implementation and launch in markets, including compilation in Xcode and Android Studio. I have also managed the migration from Cordova to Capacitor.\n\n• UX/UI Design: I have improved and created new designs using Figma, Adobe Illustrator, and Photoshop.\n\n• Docker Environment and Agile Methodologies: I have managed projects within a Docker environment. Our team follows the Scrum methodology using tools like Jira to manage projects in an agile way."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Enreda",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/c73c5e9b-44c9-4c24-b585-c03b2c099d3f_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/c73c5e9b-44c9-4c24-b585-c03b2c099d3f_linkedin-photo-26849.linkedin-photo-26849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Web Developer & Responsive Design - Wordpress / PHP / Javascript",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "• Web Development: I create 4+ responsive websites with JavaScript and NodeJS. I integrated GraphQL and Contentful for data management in 1 project and incorporated REST APIs to facilitate communication between the frontend and backend. Additionally, I implemented MySQL and PHP to develop scalable backend solutions.\n\n• Maintenance and Optimization of Websites with VUE.js/React.js: I manage 2 sites developed in VUE.js/React.js, implementing performance improvements and code optimization to ensure a smooth and efficient user experience.\n\n• WordPress Template and Plugin Development: I designed and implemented custom WordPress templates adapted to each client. Additionally, I developed custom PHP plugins to add functionalities that enhanced the user experience and content management.\n\n• Integration and Design with Bootstrap: I leveraged Bootstrap to develop and enhance fast and adaptive user interfaces, ensuring visual consistency across multiple devices and screen resolutions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Full-stack MERN Web Developer - MongoDB / Express / React / NodeJS",
+            "startDate": "2020-10-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "• WebApps Development with the MERN Stack: I designed and developed complete web applications, with React on the frontend, Express and NodeJS on the backend, and using MongoDB for data management.\n\n• Improvement of User Experience (UX) in Existing WebApps: I evaluated and diagnosed UX issues in operational webapps, implementing improvements in the interface and user interaction. I incorporated SASS for efficient CSS writing and adopted the BEM methodology to ensure a reusable and easily maintainable code.\n\n• AWS Services Integration for Media Storage: Implemented Amazon Web Services (AWS) to create and manage S3 buckets for the storage of photographs, facilitating the use of Amazon Textract for image analysis and data extraction. This involved configuring bucket permissions to ensure security and accessibility, as well as implementing best practices for scalable and cost-effective media storage solutions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Workana",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/138d0757-cd27-4dab-b7b5-5c39c1266b7d_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/138d0757-cd27-4dab-b7b5-5c39c1266b7d_linkedin-photo-26849.linkedin-photo-26849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer & Designer - Freelance",
+            "startDate": "2013-02-01",
+            "finishDate": "2019-12-31",
+            "challenges": [
+              {
+                "description": "• I worked as a freelancer for sites like Workana, Fiverr, Upwork, Freelancer.com, etc.\n\n• WordPress Site Development and Design: I designed, developed, and implemented custom WordPress templates, adapting to the specific needs of each client to deliver highly functional and visually appealing websites.\n\n• Full Stack Web Development: I created and maintained websites using HTML, CSS, and JavaScript on the front end, with PHP and MySQL on the back end, ensuring robust and scalable solutions for various web projects.\n\n• Graphic and Advertising Design: I performed color management, illustration, typography, and logo creation for small local businesses, in addition to designing advertising banners with HTML5 and CSS3, enhancing the visual identity and brand communication of clients.\n\n• Domain and Hosting Management: I registered and managed domains, configured and maintained hosting for WordPress installations, ensuring the web infrastructure was secure and always up to date. I also created and managed the MySQL databases necessary for the optimal functioning of the websites.\n\n• Teamwork and Agile Methodologies: I have been part of various teams across different companies, collaborating as a freelancer. During these projects, I implemented agile methodologies such as SCRUM, which facilitated work management, optimized development processes, and enhanced collaboration and communication within the team."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Liser Design"
+        },
+        "roles": [
+          {
+            "name": "Web Developer & Designer - Wordpress Developer",
+            "startDate": "2012-03-01",
+            "finishDate": "2012-12-31",
+            "challenges": [
+              {
+                "description": "• WordPress Site Optimization for Local Businesses: I redesigned and updated existing WordPress sites, significantly enhancing aesthetics and functionality to meet the needs of local businesses. I implemented customized solutions that led to a better user experience and increased online visibility.\n\n• WordPress Template and Plugin Development: I created custom templates from scratch and developed specific plugins in PHP to extend WordPress functionality, ensuring the websites perfectly met each client’s specific requirements.\n\n• E-Commerce Implementation and Maintenance with Joomla: I deployed e-commerce solutions using Joomla, taking charge of their full implementation and subsequent maintenance, which allowed clients to efficiently manage their online sales.\n\n• Web Development for Professional Musicians: I built 5 custom websites for professional musicians using HTML, CSS, and JavaScript. These projects were distinguished by incorporating creative designs and interactive features that enhanced online presence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cuak! Design"
+        },
+        "roles": [
+          {
+            "name": "Web Developer & Designer - Technical support",
+            "startDate": "2009-06-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "• Web Development and Implementation with ASP: I led the creation and implementation of 2 dynamic websites using ASP.NET, ensuring robust architecture and an optimal user experience. I was responsible for the entire development lifecycle, from conceptualization to launch and post-launch maintenance.\n\n• JS and HTML Web Design: I designed and developed a variety of websites using JavaScript, HTML, and CSS, applying best web development practices to ensure compatibility, performance, and accessibility.\n\n• Development with Joomla!: I implemented customized web solutions with Joomla!, including creating templates from scratch with PHP and maintaining existing platforms. I developed custom PHP scripts to extend the functionality of Joomla!, significantly improving user experience and operational efficiency.\n\n• Web Maintenance and Technical Support: I provided ongoing technical support and maintenance for all developed platforms, ensuring their optimal operation and update."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PLATO VIRTUAL SL"
+        },
+        "roles": [
+          {
+            "name": "Art Direction - Infographist - 3D Design",
+            "startDate": "2007-06-01",
+            "finishDate": "2009-06-30",
+            "challenges": [
+              {
+                "description": "• Managed the Art & Design Department, leading a team of 9 workers.\n\n• Negotiation of schedules and deadlines of projects, including shorts and\ndocumentaries.\n\n• Created and rendering 3D objects with Lightwave, 3D Studio, and Blender.\n\n• Created vector objects for animation with Adobe Illustrator, and CorelDraw.\n\n• Conceptualized and presenting ideas for new 3D characters related to educative\nprojects for local government."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AOL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/063f0d63-5941-4297-b68d-8100d81a1d78_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/063f0d63-5941-4297-b68d-8100d81a1d78_linkedin-photo-26849.linkedin-photo-26849"
+          }
+        },
+        "roles": [
+          {
+            "name": "ISP Technical/Customer Support",
+            "startDate": "2003-03-01",
+            "finishDate": "2005-06-30",
+            "challenges": [
+              {
+                "description": "• Diagnosed and resolving customer technical issues, giving support by email & phone.\n\n• Tested and evaluating new technical support tools developed by AOL.\n\n• Analyzed and identified most common tech issues and built customer support\ndocumentation (guides and manuals).\n\n• Prepared daily/weekly task reports to elaborate statistics to improve help-desk\nperformance."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
