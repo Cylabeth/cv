@@ -11,8 +11,8 @@
       "title": "Full Stack Developer - HTML & CSS3 | Javascript | Typescript | Ionic | Angular | Node | REACT",
       "description": "From my initial training in Art Direction to my transition into programming, my career has been a journey of continuous learning and adaptation. A passion for technology led me to study for a higher degree in Systems Administration and then into web and mobile development. With experience in technical support and Front-End, my career took a decisive turn towards full-stack web development after completing the Ironhack Bootcamp in 2020.\nCurrently, I work as a Front-end Developer at Housell. I apply my skills in HTML, SASS, Javascript, and PHP for website development and Angular, Typescript, and Ionic for app development. My approach is straightforward: find solutions, keep learning, and enhance teamwork.\n\nKey Achievements\n* Built and enhanced over 50 websites and mobile apps, significantly improving responsiveness and user interaction.\n* Managed web app migration from Cordova to Capacitor, improving performance and scalability.\n* Actively improved user experience across several projects.\n* Reduced the crash rate in the Housell app from a high percentage of errors to less than 1%. This achievement reflects an improvement in app stability and user satisfaction based on performance metrics in the Google Play Store.\n\nFun Facts\nI have been a plangonologist for over 20 years. If you're curious about what that means, feel free to contact me at c.elizabeth.gorosito@gmail.com\n\nSkills\n* Development: HTML5, CSS3, SASS, JavaScript, PHP, Typescript, React, Angular, Ionic, Node.js\n* Tools: Git, Docker, Jira\n* Methodologies: Agile, Scrum",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/0673a3d1-9341-41f7-bedb-a2ad3e0384f5_linkedin-photo-26849.linkedin-photo-26849",
-        "alt": "24/04/07/0673a3d1-9341-41f7-bedb-a2ad3e0384f5_linkedin-photo-26849.linkedin-photo-26849"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/62c70832-ee04-4239-b273-5ef29f9c61a6_linkedin-photo-26849.linkedin-photo-26849",
+        "alt": "24/04/07/62c70832-ee04-4239-b273-5ef29f9c61a6_linkedin-photo-26849.linkedin-photo-26849"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -38,8 +38,8 @@
         "organization": {
           "name": "Housell",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/dbb2af97-f08f-441c-b626-ad2694fc5a0b_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/dbb2af97-f08f-441c-b626-ad2694fc5a0b_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/959e4198-9669-4f36-99b3-27ba972b8da9_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/959e4198-9669-4f36-99b3-27ba972b8da9_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -58,8 +58,8 @@
         "organization": {
           "name": "Enreda",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/c73c5e9b-44c9-4c24-b585-c03b2c099d3f_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/c73c5e9b-44c9-4c24-b585-c03b2c099d3f_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/4c2a7873-9549-4b03-bdb6-ef8c28c02244_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/4c2a7873-9549-4b03-bdb6-ef8c28c02244_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -96,8 +96,8 @@
         "organization": {
           "name": "Workana",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/138d0757-cd27-4dab-b7b5-5c39c1266b7d_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/138d0757-cd27-4dab-b7b5-5c39c1266b7d_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/791414d6-b5c8-421f-872d-ade4041bc0c2_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/791414d6-b5c8-421f-872d-ade4041bc0c2_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -168,8 +168,8 @@
         "organization": {
           "name": "AOL",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/063f0d63-5941-4297-b68d-8100d81a1d78_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/063f0d63-5941-4297-b68d-8100d81a1d78_linkedin-photo-26849.linkedin-photo-26849"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/c0eb65f5-9c63-4d80-8c9e-c4eabc6f552d_linkedin-photo-26849.linkedin-photo-26849",
+            "alt": "24/04/07/c0eb65f5-9c63-4d80-8c9e-c4eabc6f552d_linkedin-photo-26849.linkedin-photo-26849"
           }
         },
         "roles": [
@@ -240,12 +240,6 @@
       {
         "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
           "type": "technology"
         }
       },
