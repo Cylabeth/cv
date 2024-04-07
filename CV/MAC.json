@@ -312,6 +312,26 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Elements of AI",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "University of Helsinki",
+          "URL": "https://certificates.mooc.fi/validate/drfomcm7l4p",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/46b45a15-0f15-4835-8d9c-6261a7f7dbea_395bc891-fb8c-47c3-a.jpg",
+            "alt": "395bc891-fb8c-47c3-a253-6a2b19670133.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Full Stack Web Developer",
@@ -331,9 +351,39 @@
         "name": "Senior Technician in Computer Systems Administration",
         "startDate": "2005-01-01",
         "institution": {
-          "name": "I.E.S. Delgado Hernández"
+          "name": "I.E.S. Delgado Hernández",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/f9be2118-97a5-4c13-8941-9e7ef7726630_6hgkg44f_400x400.png",
+            "alt": "6hgKG44F_400x400.png"
+          }
         },
-        "finishDate": "2007-01-01"
+        "finishDate": "2007-01-01",
+        "linkedCompetences": [
+          {
+            "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
