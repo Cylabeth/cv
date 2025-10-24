@@ -529,6 +529,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Angular Universal",
           "type": "technology"
         },
