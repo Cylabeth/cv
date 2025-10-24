@@ -330,6 +330,43 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Gestión integral de producto y mantenimiento técnico en Housell",
+          "description": "Asumí la responsabilidad de mantener y evolucionar la plataforma principal de Housell durante una reducción del equipo técnico.\nDesarrollé soluciones fullstack, resolví bugs críticos y mantuve la estabilidad del sistema en producción, reforzando mi autonomía y mi capacidad de diagnóstico técnico en entornos de alta presión."
+        },
+        "type": "achievement",
+        "publishingDate": "2022-10-01",
+        "tags": [
+          "Fullstack Development"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Ionic",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
