@@ -163,27 +163,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "AOL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/15c80974-425d-43cc-8aef-5a9d4c362e91_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/15c80974-425d-43cc-8aef-5a9d4c362e91_linkedin-photo-26849.linkedin-photo-26849"
-          }
-        },
-        "roles": [
-          {
-            "name": "ISP Technical/Customer Support",
-            "startDate": "2003-03-01",
-            "finishDate": "2005-06-30",
-            "challenges": [
-              {
-                "description": "• Diagnosed and resolving customer technical issues, giving support by email & phone.\n\n• Tested and evaluating new technical support tools developed by AOL.\n\n• Analyzed and identified most common tech issues and built customer support\ndocumentation (guides and manuals).\n\n• Prepared daily/weekly task reports to elaborate statistics to improve help-desk\nperformance."
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
