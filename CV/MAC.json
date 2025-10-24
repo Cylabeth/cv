@@ -503,6 +503,38 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "CS50: Introduction to Computer Science",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Harvard University (edX)",
+          "description": "Curso universitario de introducción a la informática y las ciencias de la computación. Cubre fundamentos de programación estructurada y orientada a objetos, estructuras de datos, algoritmos, bases de datos SQL, desarrollo web con Flask y gestión de memoria en C. Incluye proyectos prácticos de análisis, diseño y depuración de código.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/24/91f4fa1f-6565-4c40-9bc8-17e4b3a08c33_harvard-logo.png",
+            "alt": "harvard-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Elements of AI",
         "startDate": "2020-04-01",
         "institution": {
