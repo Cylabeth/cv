@@ -567,10 +567,6 @@
         {
           "name": "Sass",
           "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
