@@ -525,18 +525,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
-          "name": "CSS",
-          "type": "technology"
-        },
-        {
-          "name": "Figma",
-          "type": "technology"
-        },
-        {
           "name": "HTML",
           "type": "technology"
         },
@@ -554,18 +542,6 @@
         },
         {
           "name": "PHP",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "Sass",
           "type": "technology"
         }
       ],
