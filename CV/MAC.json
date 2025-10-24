@@ -223,6 +223,39 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Optimización de pipelines CI/CD en GitLab",
+          "description": "Mejoré y mantuve los flujos de integración y despliegue continuo (CI/CD), optimizando la ejecución de tests y builds e implementando umbrales de cobertura del 60 % en cada merge request.\nIntegré el flujo con AWS para la gestión automatizada de artefactos, reduciendo errores y mejorando la estabilidad de las entregas."
+        },
+        "type": "achievement",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "CI-CD Automation"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "Jasmine",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
