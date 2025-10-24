@@ -549,6 +549,10 @@
           "type": "technology"
         },
         {
+          "name": "Scss",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
