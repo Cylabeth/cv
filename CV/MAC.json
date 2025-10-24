@@ -464,6 +464,12 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
           "type": "technology"
         }
@@ -841,19 +847,19 @@
         "type": "technology"
       },
       {
-        "name": "HTML",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
-        "name": "Ionic",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
