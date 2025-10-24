@@ -675,6 +675,34 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Testing sostenible con TypeScript, TDD y diseño de software",
+        "startDate": "2025-10-01",
+        "institution": {
+          "name": "Software Crafters",
+          "description": "Formación avanzada en testing, TDD y diseño de software orientado a mantenimiento a largo plazo. Cubre buenas prácticas de código sostenible en TypeScript, escritura de tests unitarios efectivos, control de complejidad accidental, refactor seguro con una base de pruebas y diseño modular desacoplado de frameworks. Incluye ejercicios prácticos, katas y revisión de código con foco en calidad, legibilidad y estabilidad en producción.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/24/91970945-1489-467d-9bd7-a6bffc440439_images.png",
+            "alt": "images.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jasmine",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
