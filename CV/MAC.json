@@ -577,6 +577,10 @@
           "type": "technology"
         },
         {
+          "name": "Jasmine",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
