@@ -525,15 +525,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "MySQL",
-          "type": "technology"
-        },
-        {
-          "name": "PHP",
+          "name": "Angular Universal",
           "type": "technology"
         }
       ],
