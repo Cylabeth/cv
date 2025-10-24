@@ -226,6 +226,43 @@
       },
       {
         "details": {
+          "name": "Desarrollo de módulo de IA aplicada",
+          "description": "Participé en el desarrollo de microservicios para ALBA, un módulo de IA predictiva diseñado para optimizar la planificación quirúrgica a partir del análisis de datos históricos.\nEste proyecto marcó mi primera experiencia práctica con inteligencia artificial aplicada a la salud, fortaleciendo mi interés por la IA generativa y la automatización inteligente."
+        },
+        "type": "achievement",
+        "publishingDate": "2025-02-01",
+        "tags": [
+          "artificial intelligence"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Optimización de pipelines CI/CD en GitLab",
           "description": "Mejoré y mantuve los flujos de integración y despliegue continuo (CI/CD), optimizando la ejecución de tests y builds e implementando umbrales de cobertura del 60 % en cada merge request.\nIntegré el flujo con AWS para la gestión automatizada de artefactos, reduciendo errores y mejorando la estabilidad de las entregas."
         },
