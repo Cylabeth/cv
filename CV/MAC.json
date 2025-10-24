@@ -509,8 +509,8 @@
           "name": "Harvard University (edX)",
           "description": "Curso universitario de introducción a la informática y las ciencias de la computación. Cubre fundamentos de programación estructurada y orientada a objetos, estructuras de datos, algoritmos, bases de datos SQL, desarrollo web con Flask y gestión de memoria en C. Incluye proyectos prácticos de análisis, diseño y depuración de código.",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/24/91f4fa1f-6565-4c40-9bc8-17e4b3a08c33_harvard-logo.png",
-            "alt": "harvard-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/24/9cd928b9-8f4f-46cb-a14e-763decb6c649_harvard_university_s.png",
+            "alt": "Harvard_University_shield.png"
           }
         },
         "linkedCompetences": [
