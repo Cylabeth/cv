@@ -293,6 +293,43 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Publicación en App Store y Google Play de la app Housell tras más de un año sin actualizaciones",
+          "description": "Logré publicar nuevamente la app Housell en App Store y Google Play tras más de un año de rechazos en revisión.\nCorregí errores de compilación, actualicé dependencias y solucioné incompatibilidades con las nuevas versiones de iOS, gestionando certificados y build settings en Xcode.\nEl proceso fortaleció mi autonomía técnica y mi capacidad para resolver problemas en entornos exigentes."
+        },
+        "type": "achievement",
+        "publishingDate": "2023-09-01",
+        "tags": [
+          "Mobile development"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Capacitor",
+            "type": "technology"
+          },
+          {
+            "name": "Cordova",
+            "type": "technology"
+          },
+          {
+            "name": "Ionic",
+            "type": "technology"
+          },
+          {
+            "name": "XCode",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
