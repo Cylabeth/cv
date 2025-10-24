@@ -525,6 +525,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "API",
+          "type": "technology"
+        },
+        {
           "name": "Angular Universal",
           "type": "technology"
         },
