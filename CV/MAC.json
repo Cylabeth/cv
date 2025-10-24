@@ -525,14 +525,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "HTML",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
           "name": "MongoDB",
           "type": "technology"
         },
