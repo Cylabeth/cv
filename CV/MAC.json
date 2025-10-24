@@ -178,7 +178,49 @@
             "finishDate": "2021-12-31",
             "challenges": [
               {
-                "description": "• Web Development: I create 4+ responsive websites with JavaScript and NodeJS. I integrated GraphQL and Contentful for data management in 1 project and incorporated REST APIs to facilitate communication between the frontend and backend. Additionally, I implemented MySQL and PHP to develop scalable backend solutions.\n\n• Maintenance and Optimization of Websites with VUE.js/React.js: I manage 2 sites developed in VUE.js/React.js, implementing performance improvements and code optimization to ensure a smooth and efficient user experience.\n\n• WordPress Template and Plugin Development: I designed and implemented custom WordPress templates adapted to each client. Additionally, I developed custom PHP plugins to add functionalities that enhanced the user experience and content management.\n\n• Integration and Design with Bootstrap: I leveraged Bootstrap to develop and enhance fast and adaptive user interfaces, ensuring visual consistency across multiple devices and screen resolutions."
+                "description": "Proyecto: Agencia tecnológica especializada en desarrollo web y soluciones digitales a medida para clientes del sector público y\nprivado.\nStack: React · Node.js/Express · MongoDB · AWS Textract · S3 · Passport · Bootstrap.\n·  Desarrollo de más de 4 sitios web responsive con JavaScript y Node.js, integrando GraphQL y APIs REST para mejorar la eficiencia y la gestión de datos.\n·  Optimización de proyectos existentes en Vue.js y React.js, incrementando el rendimiento y mejorando la experiencia de usuario mediante refactorización de código y buenas prácticas.\n·  Creación de plantillas personalizadas y plugins en WordPress/PHP, adaptados a las necesidades de cada cliente y alineados con la identidad visual del producto.\n·  Implementación de interfaces rápidas y adaptables con Bootstrap, asegurando consistencia y accesibilidad en múltiples dispositivos.\n·  Diseño e implementación de un flujo de lectura automática de DNI con Amazon Textract y AWS SDK for JavaScript, que extraía información estructurada desde imágenes para acelerar registros en eventos en vivo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Passport",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
