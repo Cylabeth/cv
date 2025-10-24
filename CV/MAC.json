@@ -185,6 +185,45 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Migración de módulos críticos de AngularJS a Angular 17 en la plataforma hospitalaria Forward",
+          "description": "Lideré la modernización de módulos críticos en la plataforma hospitalaria Forward, migrando código legacy de AngularJS a Angular 17.\nEl nuevo diseño modular redujo la deuda técnica, mejoró la mantenibilidad y permitió la integración de test unitarios automáticos dentro de los pipelines CI/CD de GitLab."
+        },
+        "type": "achievement",
+        "publishingDate": "2025-03-01",
+        "tags": [
+          "frontend development"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "RxJS",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
