@@ -537,6 +537,10 @@
           "type": "technology"
         },
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
