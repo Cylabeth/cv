@@ -112,9 +112,52 @@
           {
             "name": "Frontend Developer - iOS and Android App",
             "startDate": "2021-12-01",
+            "finishDate": "2024-05-01",
             "challenges": [
               {
-                "description": "• PHP Maintenance and Development: Interpreting and working with PHP code on existing projects, applying improvements, and ensuring optimal performance.\n\n• Front-End Development: I have developed with technologies such as HTML5, CSS3 (with BEM methodology), JavaScript, Twig templates, and automated tasks with Gulp to create and maintain responsive user interfaces.\n\n• Webapp Development with Angular and Ionic: Development of new features (and maintenance of existing functionalities) for the Housell app using Angular 14+, Ionic 5/6, and TypeScript, managing the entire application lifecycle, from conceptualization in Figma to implementation and launch in markets, including compilation in Xcode and Android Studio. I have also managed the migration from Cordova to Capacitor.\n\n• UX/UI Design: I have improved and created new designs using Figma, Adobe Illustrator, and Photoshop.\n\n• Docker Environment and Agile Methodologies: I have managed projects within a Docker environment. Our team follows the Scrum methodology using tools like Jira to manage projects in an agile way."
+                "description": "Proyecto: Plataforma inmobiliaria Housell, dedicada a la compraventa de viviendas online, con un alto volumen de usuarios y foco en la optimización de la experiencia digital.\nStack: Angular · Ionic · TypeScript · PHP · HTML5 · CSS3 · MySQL · Docker · Figma · Jira · SCRUM\n · Desarrollo y mantenimiento del producto principal (PHP + Angular/Ionic), implementando nuevas funcionalidades y optimizando flujos críticos de usuario.\n · Migración de la app móvil de Cordova a Capacitor, mejorando el rendimiento general, la estabilidad y la compatibilidad con nuevas versiones de Android/iOS.\n · Reducción de errores a menos del 1 % en la aplicación Housell, incrementando la satisfacción del usuario y los indicadores de estabilidad medidos internamente.\n · Creación y mantenimiento de interfaces responsive con HTML5, CSS3, JavaScript y Gulp, garantizando consistencia visual entre web y app.\n · Diseño de componentes UX/UI para el proyecto principal utilizando Figma, Illustrator y Photoshop, en colaboración directa con el equipo de producto.\n · Trabajo dentro de un entorno Docker con metodologías ágiles SCRUM, gestionando tareas mediante Jira y colaborando estrechamente con desarrolladores backend y QA."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
