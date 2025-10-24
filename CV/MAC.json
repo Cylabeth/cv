@@ -581,6 +581,10 @@
           "type": "technology"
         },
         {
+          "name": "REST",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
