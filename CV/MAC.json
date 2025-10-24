@@ -541,6 +541,10 @@
           "type": "technology"
         },
         {
+          "name": "Capacitor",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         },
