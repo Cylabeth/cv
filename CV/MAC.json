@@ -557,6 +557,10 @@
           "type": "technology"
         },
         {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         },
