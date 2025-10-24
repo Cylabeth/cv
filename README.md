@@ -2,7 +2,7 @@
 
 # Cynthia Elizabeth Gorosito's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/cd4e69a8-59aa-42f0-baca-62ebb5ba8ac7).
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
 <br/>
 <br/>
 
