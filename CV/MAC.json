@@ -535,6 +535,10 @@
         {
           "name": "AngularJS",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
