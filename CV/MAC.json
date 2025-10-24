@@ -91,27 +91,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Workana",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/28b38590-4d80-4b0a-99bd-5bd06b2bbf7a_linkedin-photo-26849.linkedin-photo-26849",
-            "alt": "24/04/07/28b38590-4d80-4b0a-99bd-5bd06b2bbf7a_linkedin-photo-26849.linkedin-photo-26849"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web Developer & Designer - Freelance",
-            "startDate": "2013-02-01",
-            "finishDate": "2019-12-31",
-            "challenges": [
-              {
-                "description": "• I worked as a freelancer for sites like Workana, Fiverr, Upwork, Freelancer.com, etc.\n\n• WordPress Site Development and Design: I designed, developed, and implemented custom WordPress templates, adapting to the specific needs of each client to deliver highly functional and visually appealing websites.\n\n• Full Stack Web Development: I created and maintained websites using HTML, CSS, and JavaScript on the front end, with PHP and MySQL on the back end, ensuring robust and scalable solutions for various web projects.\n\n• Graphic and Advertising Design: I performed color management, illustration, typography, and logo creation for small local businesses, in addition to designing advertising banners with HTML5 and CSS3, enhancing the visual identity and brand communication of clients.\n\n• Domain and Hosting Management: I registered and managed domains, configured and maintained hosting for WordPress installations, ensuring the web infrastructure was secure and always up to date. I also created and managed the MySQL databases necessary for the optimal functioning of the websites.\n\n• Teamwork and Agile Methodologies: I have been part of various teams across different companies, collaborating as a freelancer. During these projects, I implemented agile methodologies such as SCRUM, which facilitated work management, optimized development processes, and enhanced collaboration and communication within the team."
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
