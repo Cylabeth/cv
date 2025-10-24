@@ -497,6 +497,12 @@
       },
       {
         "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
