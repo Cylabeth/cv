@@ -36,6 +36,72 @@
     "jobs": [
       {
         "organization": {
+          "name": "Oxigent Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/24/a4490cf1-af93-483d-97f1-79202f37559a_54a12ba0-cb94-4bcf-a.jpg",
+            "alt": "54a12ba0-cb94-4bcf-a32d-17b93609bd3f_thumb.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Fullstack Developer",
+            "startDate": "2024-05-01",
+            "challenges": [
+              {
+                "description": "Proyectos: Forward, plataforma hospitalaria para la planificación quirúrgica utilizada en varios centros sanitarios.\nALBA, sistema de IA para la detección de patrones y mejora de la planificación quirúrgica mediante análisis predictivo.\nStack: Angular 17 · TypeScript · Node.js · PostgreSQL · RxJS · SCSS · Docker · GitLab CI/CD · AWS · Redis · MongoDB · Kubernetes\n ·  Desarrollo fullstack de módulos para la planificación, gestión y visualización de quirófanos, garantizando la estabilidad y la escalabilidad del sistema.\n ·  Migración de 5 vistas críticas de AngularJS a Angular 17, reduciendo la deuda técnica y mejorando la mantenibilidad del código y la cobertura de tests en CI/CD.\n ·  Implementación de lógica backend en Node.js y PostgreSQL, optimizando consultas en un 30 % y corrigiendo inconsistencias por solapamiento de datos.\n ·  Diseño e integración de APIs RESTful para turnos, quirófanos y servicios, alineadas con las necesidades de distintos equipos médicos.\n ·  Participación activa en el desarrollo del proyecto ALBA, entorno de IA predictiva diseñado para analizar la Lista de Espera Quirúrgica (LEQ) y simular escenarios futuros de planificación quirúrgica.\n ·  Colaboración con el equipo de Data Science en la integración de microservicios de predicción (Prediction Models) y simulación (Planificación Engine), mejorando la precisión de los modelos y su interoperabilidad con los módulos de Forward.  \n ·  Participación en la orquestación de microservicios dentro de un entorno Kubernetes, integrando componentes de autorización (CAS2JWT), parsing y proxy REST.\n ·  Gestión de persistencia híbrida (MongoDB para datos no volátiles, Redis para volátiles) y validación de rendimiento bajo carga. Desarrollo de componentes visuales reutilizables (tablas semanales, pop-ups dinámicos, vistas configurables) con RxJS y SCSS. \n · Implementación de tests unitarios con Jasmine y TDD, integrados en pipelines automáticos de GitLab CI/CD (cobertura ≥ 60 %). Integración de AWS en el flujo de despliegue: validación de builds, ejecución de pruebas automáticas y gestión de artefactos. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Housell",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/07/4b884d3b-1722-464b-969f-11ad9259e13a_linkedin-photo-26849.linkedin-photo-26849",
