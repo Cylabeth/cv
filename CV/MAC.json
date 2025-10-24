@@ -129,23 +129,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Cuak! Design"
-        },
-        "roles": [
-          {
-            "name": "Web Developer & Designer - Technical support",
-            "startDate": "2009-06-01",
-            "finishDate": "2011-12-31",
-            "challenges": [
-              {
-                "description": "• Web Development and Implementation with ASP: I led the creation and implementation of 2 dynamic websites using ASP.NET, ensuring robust architecture and an optimal user experience. I was responsible for the entire development lifecycle, from conceptualization to launch and post-launch maintenance.\n\n• JS and HTML Web Design: I designed and developed a variety of websites using JavaScript, HTML, and CSS, applying best web development practices to ensure compatibility, performance, and accessibility.\n\n• Development with Joomla!: I implemented customized web solutions with Joomla!, including creating templates from scratch with PHP and maintaining existing platforms. I developed custom PHP scripts to extend the functionality of Joomla!, significantly improving user experience and operational efficiency.\n\n• Web Maintenance and Technical Support: I provided ongoing technical support and maintenance for all developed platforms, ensuring their optimal operation and update."
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
