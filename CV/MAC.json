@@ -609,6 +609,10 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "REST",
           "type": "technology"
         },
