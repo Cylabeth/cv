@@ -565,6 +565,10 @@
           "type": "technology"
         },
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
