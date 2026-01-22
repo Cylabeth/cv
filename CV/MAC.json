@@ -232,12 +232,12 @@
         },
         "roles": [
           {
-            "name": "Full-stack MERN Web Developer - MongoDB / Express / React / NodeJS",
+            "name": " Full-Stack Developer (React & Node.js)",
             "startDate": "2020-10-01",
             "finishDate": "2021-05-31",
             "challenges": [
               {
-                "description": "• WebApps Development with the MERN Stack: I designed and developed complete web applications, with React on the frontend, Express and NodeJS on the backend, and using MongoDB for data management.\n\n• Improvement of User Experience (UX) in Existing WebApps: I evaluated and diagnosed UX issues in operational webapps, implementing improvements in the interface and user interaction. I incorporated SASS for efficient CSS writing and adopted the BEM methodology to ensure a reusable and easily maintainable code.\n\n• AWS Services Integration for Media Storage: Implemented Amazon Web Services (AWS) to create and manage S3 buckets for the storage of photographs, facilitating the use of Amazon Textract for image analysis and data extraction. This involved configuring bucket permissions to ensure security and accessibility, as well as implementing best practices for scalable and cost-effective media storage solutions."
+                "description": "Full-stack web development focused on real-world projects after completing an intensive training period, working on product-oriented solutions and practical business use cases.\n\n• Developed full-stack web applications using React on the frontend and Node.js / Express on the backend, with MongoDB for data persistence\n\n• Designed and implemented RESTful APIs and backend business logic, ensuring clear separation of concerns and maintainable codebases\n\n• Improved existing applications through code refactoring, optimization of user flows, and progressive enhancement of system maintainability\n\n• Worked closely on user experience improvements, applying SASS and BEM methodology to build scalable and reusable styling systems\n\n• Integrated cloud services (AWS S3) for media storage and file management, laying the groundwork for automated data processing workflows"
               }
             ]
           }
