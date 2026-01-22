@@ -239,6 +239,32 @@
               {
                 "description": "Full-stack web development focused on real-world projects after completing an intensive training period, working on product-oriented solutions and practical business use cases.\n\n• Developed full-stack web applications using React on the frontend and Node.js / Express on the backend, with MongoDB for data persistence\n\n• Designed and implemented RESTful APIs and backend business logic, ensuring clear separation of concerns and maintainable codebases\n\n• Improved existing applications through code refactoring, optimization of user flows, and progressive enhancement of system maintainability\n\n• Worked closely on user experience improvements, applying SASS and BEM methodology to build scalable and reusable styling systems\n\n• Integrated cloud services (AWS S3) for media storage and file management, laying the groundwork for automated data processing workflows"
               }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
             ]
           }
         ]
