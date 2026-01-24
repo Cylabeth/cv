@@ -189,12 +189,12 @@
         },
         "roles": [
           {
-            "name": "Full-stack Web Developer & Responsive Design - Wordpress / PHP / Javascript",
+            "name": "Full-Stack Web Developer – JavaScript / React / Node.js",
             "startDate": "2021-05-01",
             "finishDate": "2021-12-31",
             "challenges": [
               {
-                "description": "Proyecto: Agencia tecnológica especializada en desarrollo web y soluciones digitales a medida para clientes del sector público y\nprivado.\nStack: React · Node.js/Express · MongoDB · AWS Textract · S3 · Passport · Bootstrap.\n·  Desarrollo de más de 4 sitios web responsive con JavaScript y Node.js, integrando GraphQL y APIs REST para mejorar la eficiencia y la gestión de datos.\n·  Optimización de proyectos existentes en Vue.js y React.js, incrementando el rendimiento y mejorando la experiencia de usuario mediante refactorización de código y buenas prácticas.\n·  Creación de plantillas personalizadas y plugins en WordPress/PHP, adaptados a las necesidades de cada cliente y alineados con la identidad visual del producto.\n·  Implementación de interfaces rápidas y adaptables con Bootstrap, asegurando consistencia y accesibilidad en múltiples dispositivos.\n·  Diseño e implementación de un flujo de lectura automática de DNI con Amazon Textract y AWS SDK for JavaScript, que extraía información estructurada desde imágenes para acelerar registros en eventos en vivo."
+                "description": "### **Proyecto**\n\nAgencia tecnológica especializada en desarrollo web y soluciones digitales a medida para clientes del sector público y privado.\n\n### **Stack**\nReact · Node.js / Express · MongoDB · AWS (Textract, S3) · Passport · Bootstrap\n\n### **Responsabilidades y contribuciones**\n\n- Desarrollo de más de 4 plataformas web responsive utilizando JavaScript y Node.js, cubriendo el ciclo completo desde implementación hasta puesta en producción.\n- Integración de APIs REST y GraphQL para mejorar la eficiencia en la gestión de datos y la comunicación entre sistemas.\n- Optimización de proyectos existentes en Vue.js y React, incrementando el rendimiento y mejorando la experiencia de usuario mediante refactorización de código y aplicación de buenas prácticas.\n- Creación de plantillas personalizadas y plugins en WordPress/PHP, adaptados a las necesidades de cada cliente y alineados con la identidad visual de los productos.\n- Implementación de interfaces rápidas y adaptables con Bootstrap, asegurando consistencia visual, accesibilidad y compatibilidad multi-dispositivo.\n- Diseño e implementación de un flujo de lectura automática de documentos de identidad mediante Amazon Textract y AWS SDK for JavaScript, extrayendo información estructurada desde imágenes para agilizar procesos de registro en eventos en vivo.\n"
               }
             ],
             "competences": [
@@ -208,6 +208,14 @@
               },
               {
                 "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
