@@ -261,10 +261,14 @@
             "finishDate": "2021-05-31",
             "challenges": [
               {
-                "description": "Desarrollo de aplicaciones web full-stack tras finalizar formación intensiva en desarrollo web, participando en proyectos reales orientados a producto y a la resolución de problemas concretos de negocio.\n\n• Desarrollo de aplicaciones web completas utilizando React en frontend y Node.js / Express en backend, con MongoDB como sistema de persistencia\n\n• Diseño e implementación de APIs REST y lógica de negocio, asegurando una correcta separación de responsabilidades\n\n• Mejora de aplicaciones existentes mediante refactorización de código, optimización de flujos de usuario y mejora de mantenibilidad\n\n• Trabajo activo en experiencia de usuario, aplicando SASS y metodología BEM para lograr estilos escalables y reutilizables\n\n• Integración de servicios cloud (AWS S3) para gestión de almacenamiento de archivos y medios, sentando las bases para flujos posteriores de procesamiento automático de datos"
+                "description": "Desarrollo de aplicaciones web full-stack tras finalizar formación intensiva en desarrollo web, participando en proyectos reales orientados a producto y a la resolución de necesidades concretas de negocio.\n\n• Desarrollo de aplicaciones web completas utilizando React en frontend y Node.js / Express en backend, con MongoDB como sistema de persistencia\n\n• Diseño e implementación de APIs REST y lógica de negocio, asegurando una correcta separación de responsabilidades\n\n• Mejora de aplicaciones existentes mediante refactorización de código, optimización de flujos de usuario y mejora de mantenibilidad\n\n• Trabajo activo en experiencia de usuario, aplicando SASS y metodología BEM para lograr estilos escalables y reutilizables\n\n• Integración de servicios cloud (AWS S3) para gestión de almacenamiento de archivos y medios, sentando las bases para flujos posteriores de procesamiento automático de datos"
               }
             ],
             "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
               {
                 "name": "AWS",
                 "type": "technology"
@@ -279,6 +283,10 @@
               },
               {
                 "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
                 "type": "technology"
               },
               {
