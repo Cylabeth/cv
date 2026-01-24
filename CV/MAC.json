@@ -127,7 +127,7 @@
             "finishDate": "2024-05-01",
             "challenges": [
               {
-                "description": "Proyecto: Plataforma inmobiliaria Housell, dedicada a la compraventa de viviendas online, con un alto volumen de usuarios y foco en la optimización de la experiencia digital.\nStack: Angular · Ionic · TypeScript · PHP · HTML5 · CSS3 · MySQL · Docker · Figma · Jira · SCRUM\n · Desarrollo y mantenimiento del producto principal (PHP + Angular/Ionic), implementando nuevas funcionalidades y optimizando flujos críticos de usuario.\n · Migración de la app móvil de Cordova a Capacitor, mejorando el rendimiento general, la estabilidad y la compatibilidad con nuevas versiones de Android/iOS.\n · Reducción de errores a menos del 1 % en la aplicación Housell, incrementando la satisfacción del usuario y los indicadores de estabilidad medidos internamente.\n · Creación y mantenimiento de interfaces responsive con HTML5, CSS3, JavaScript y Gulp, garantizando consistencia visual entre web y app.\n · Diseño de componentes UX/UI para el proyecto principal utilizando Figma, Illustrator y Photoshop, en colaboración directa con el equipo de producto.\n · Trabajo dentro de un entorno Docker con metodologías ágiles SCRUM, gestionando tareas mediante Jira y colaborando estrechamente con desarrolladores backend y QA."
+                "description": "### **Proyecto**\n\nPlataforma inmobiliaria Housell, dedicada a la compraventa de viviendas online, con un alto volumen de usuarios y foco en la optimización de la experiencia digital.\n\n### **Stack**\nAngular · Ionic · TypeScript · PHP · HTML5 · CSS3 · MySQL · Docker · Figma · Jira · SCRUM\n\n### **Responsabilidades y contribuciones**\n\n- Desarrollo y mantenimiento del producto principal (PHP + Angular/Ionic), implementando nuevas funcionalidades y optimizando flujos críticos de usuario.\n- Migración de la aplicación móvil de Cordova a Capacitor, mejorando el rendimiento general, la estabilidad y la compatibilidad con nuevas versiones de Android e iOS.\n- Reducción de errores a menos del 1 % en la aplicación Housell, incrementando la satisfacción del usuario y los indicadores de estabilidad medidos internamente.\n- Creación y mantenimiento de interfaces responsive con HTML5, CSS3, JavaScript y Gulp, garantizando consistencia visual entre web y aplicación móvil.\n- Diseño de componentes UX/UI para el proyecto principal utilizando Figma, Illustrator y Photoshop, en colaboración directa con el equipo de producto.\n- Trabajo en un entorno Dockerizado bajo metodología Scrum, gestionando tareas mediante Jira y colaborando estrechamente con desarrolladores backend y QA.\n"
               }
             ],
             "competences": [
@@ -153,6 +153,10 @@
               },
               {
                 "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
