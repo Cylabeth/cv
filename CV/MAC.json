@@ -273,7 +273,8 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Diseño y definición de una arquitectura frontend modular para la vista mensual de ocupación de quirófanos"
+          "name": "Diseño y definición de una arquitectura frontend modular para la vista mensual de ocupación de quirófanos",
+          "description": "Diseño de una arquitectura frontend modular para una vista mensual compleja de ocupación de quirófanos, priorizando desacoplamiento, reutilización de componentes y facilidad de mantenimiento en un entorno hospitalario en producción."
         },
         "type": "achievement",
         "publishingDate": "2025-06-01",
@@ -287,6 +288,26 @@
           },
           {
             "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "RxJS",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
             "type": "technology"
           }
         ]
